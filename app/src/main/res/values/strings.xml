@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica final UF1</string>
+    <string name="envia">ENVIAR</string>
+    <string name="recupera">Recuperem el valor</string>
+    <string name="nombre">Nom</string>
+    <string name="nomIn">Telèfon: </string>
+    <string name="visualitza">Visualitza</string>
+</resources>
